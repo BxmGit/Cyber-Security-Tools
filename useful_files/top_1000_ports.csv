@@ -1,0 +1,1001 @@
+protocol,port,description
+TCP,80,World Wide Web HTTP
+TCP,23,Telnet
+TCP,443,HTTP protocol over TLS/SSL
+TCP,21,File Transfer [Control]
+TCP,22,SSH Remote Login Protocol
+TCP,25,Simple Mail Transfer
+TCP,3389,MS Terminal Server
+TCP,110,Post Office Protocol - Version 3
+TCP,445,Microsoft-DS
+TCP,139,NETBIOS Session Service
+TCP,143,Internet Message Access Protocol
+TCP,53,Domain Name Server
+TCP,135,DCE endpoint resolution
+TCP,3306,MySQL
+TCP,8080,HTTP / HTTP Proxy
+TCP,1723,pptp
+TCP,111,SUN Remote Procedure Call
+TCP,995,POP3 protocol over TLS/SSL
+TCP,993,IMAP4 protocol over TLS/SSL
+TCP,5900,VNC Virtual Network Computing
+TCP,1025,MSTASK / network blackjack
+TCP,587,Message Submission (Sendmail)
+TCP,8888,NewsEDGE server TCP / AnswerBook2
+TCP,199,SMUX
+TCP,1720,h323hostcall
+TCP,465,SMTPS
+TCP,548,AppleShare AFP over TCP
+TCP,113,Authentication Service
+TCP,81,HOSTS2 Name Server / Bagle-AZ worm / Win32.Rbot worm
+TCP,6001,Cisco mgmt
+TCP,10000,Webmin / Network Data Management Protocol/ Dumaru.Y (Windows trojan)
+TCP,514,Remote Shell
+TCP,5060,SIP
+TCP,179,Border Gateway Protocol
+TCP,1026,MSTASK / Remote Login Network Terminal
+TCP,2000,Remotely Anywhere / VIA NET.WORKS PostOffice Plus
+Unknown,8443,Unknown
+TCP,8000,HTTP/iRDMI
+TCP,32768,Filenet TMS
+TCP,554,Real Time Stream Control Protocol
+TCP,26,Unassigned
+TCP,1433,Microsoft-SQL-Server
+Unknown,49152,Unknown
+TCP,2001,Cisco mgmt / Remotely Anywhere
+TCP,515,spooler
+TCP,8008,HTTP Alternate
+Unknown,49154,Unknown
+Unknown,1027,Unknown
+Unknown,5666,Unknown
+TCP,646,LDP
+TCP,5000,UPnP / filmaker.com / Socket de Troie (Windows Trojan)
+TCP,5631,pcANYWHEREdata
+TCP,631,IPP (Internet Printing Protocol)
+Unknown,49153,Unknown
+TCP,8081,HTTP / HTTP Proxy
+TCP,2049,Network File System - Sun Microsystems
+TCP,88,Kerberos
+TCP,79,Finger
+TCP,5800,VNC Virtual Network Computing
+TCP,106,3COM-TSMUX
+TCP,2121,CCProxy FTP / SCIENTIA-SSDB
+TCP,1110,Cluster status info
+Unknown,49155,Unknown
+TCP,6000,X-Windows / W32.LoveGate.ak virus
+TCP,513,Remote Login
+TCP,990,FTP protocol control over TLS/SSL
+Unknown,5357,Unknown
+TCP,427,Server Location
+Unknown,49156,Unknown
+TCP,543,kerberos (v4/v5)
+TCP,544,krcmd
+TCP,5101,Yahoo! Messenger
+TCP,144,Universal Management Architecture
+TCP,7,Echo
+TCP,389,Lightweight Directory Access Protocol / Internet Locator Service (ILS)
+TCP,8009,Apache JServ Protocol
+TCP,3128,Squid HTTP Proxy / W32.Mydoom.B virus
+TCP,444,Simple Network Paging Protocol
+TCP,9999,distinct / Win32/Dabber (Windows worm)
+Unknown,5009,Unknown
+TCP,7070,ARCP
+TCP,5190,America-Online
+TCP,3000,RemoteWare Client
+TCP,5432,postgres database server
+TCP,1900,SSDP
+TCP,3986,MAPPER workstation server
+TCP,13,Daytime (RFC 867)
+Unknown,1029,Unknown
+TCP,9,Discard
+TCP,5051,ITA Agent
+Unknown,6646,Unknown
+Unknown,49157,Unknown
+Unknown,1028,Unknown
+TCP,873,rsync
+TCP,1755,Microsoft Streaming Server
+TCP,2717,PN REQUESTER
+TCP,4899,RAdmin Win32 remote control
+TCP,9100,HP JetDirect
+TCP,119,Network News Transfer Protocol
+TCP,37,Time / W32.Sober.I virus
+TCP,1000,cadlock
+TCP,3001,Phatbot Worm / Redwood Broker
+TCP,5001,filmaker.com / Socket de Troie (Windows Trojan)
+TCP,82,XFER Utility
+Unknown,10010,Unknown
+TCP,1030,BBN IAD
+TCP,9090,WebSM
+TCP,2107,Microsoft Message Queuing Management / BinTec Admin
+TCP,1024,Reserved
+TCP,2103,Microsoft Message Queuing RPC / Zephyr serv-hm connection
+Unknown,6004,Unknown
+TCP,1801,Microsoft Message Queuing
+TCP,5050,Yahoo Messenger / multimedia conference control tool
+TCP,19,Character Generator
+Unknown,8031,Unknown
+Unknown,1041,Unknown
+Unknown,255,Unknown
+TCP,1049,Tobit David Postman VPMN
+TCP,1048,Sun's NEO Object Request Broker
+TCP,2967,SSC-AGENT
+TCP,1053,Remote Assistant (RA)
+Unknown,3703,Unknown
+TCP,1056,VFO
+TCP,1065,SYSCOMLAN
+TCP,1064,JSTEL
+TCP,1054,BRVREAD
+TCP,17,Quote of the Day
+TCP,808,CCProxy
+TCP,3689,Apple Digital Audio Access Protocol
+TCP,1031,InetInfo / BBN IAD
+Unknown,1044,Unknown
+TCP,1071,BSQUARE-VOIP
+TCP,5901,VNC Virtual Network Computing
+TCP,100,[unauthorized use]
+Unknown,9102,Unknown
+TCP,8010,Wingate HTTP Proxy
+TCP,2869,SSDP event notification / ICSLAP
+Unknown,1039,Unknown
+Unknown,5120,Unknown
+TCP,4001,Cisco mgmt / NewOak
+TCP,9000,CSlistener
+TCP,2105,Microsoft Message Queuing RPC / MiniPay
+TCP,636,LDAP protocol over TLS/SSL
+Unknown,1038,Unknown
+TCP,2601,discp client
+TCP,1,Port Service Multiplexer
+TCP,7000,IRC / file server itself
+TCP,1066,FPO-FNS
+TCP,1069,COGNEX-INSIGHT
+TCP,625,DEC DLM
+TCP,311,AppleShare IP WebAdmin
+TCP,280,HTTP-mgmt
+Unknown,254,Unknown
+TCP,4000,Terabase
+TCP,1993,cisco SNMP TCP port
+TCP,1761,cft-0
+TCP,5003,FileMaker Inc. - Proprietary transport
+TCP,2002,globe
+TCP,2005,encrypted symmetric telnet/login
+TCP,1998,cisco X.25 service (XOT)
+TCP,1032,BBN IAD
+TCP,1050,CORBA Management Agent
+TCP,6112,dtspcd / Blizzard Battlenet
+Unknown,3690,Unknown
+TCP,1521,Oracle8i Listener / nCube License Manager
+Unknown,2161,Unknown
+Unknown,6002,Unknown
+TCP,1080,Socks / W32.Beagle.AB trojan
+TCP,2401,cvspserver
+TCP,4045,nfs-lockd
+TCP,902,VMware Authentication Daemon / IDEAFARM-CHAT
+Unknown,7937,Unknown
+TCP,787,QSC
+TCP,1058,nim
+TCP,2383,Microsoft OLAP
+TCP,32771,Solaris RPC
+Unknown,1033,Unknown
+Unknown,1040,Unknown
+TCP,1059,nimreg
+Unknown,50000,Unknown
+TCP,5555,Personal Agent / W32.Mimail.P@mm
+TCP,10001,queue
+TCP,1494,Citrix/ica
+TCP,593,HTTP RPC Ep Map
+TCP,2301,Compaq HTTP
+TCP,3,Compression Process
+TCP,1,Port Service Multiplexer
+TCP,3268,Microsoft Global Catalog
+Unknown,7938,Unknown
+TCP,1234,W32.Beagle.Y trojan / Infoseek Search Agent
+Unknown,1022,Unknown
+TCP,1074,FASTechnologies License Manager
+TCP,8002,HTTP/Teradata ORDBMS
+Unknown,1036,Unknown
+Unknown,1035,Unknown
+TCP,9001,cisco-xremote
+Unknown,1037,Unknown
+TCP,464,kpasswd
+TCP,497,dantz
+Unknown,1935,Unknown
+TCP,6666,IRC / Windows Media Unicast Service
+TCP,2003,GNU finger
+Unknown,6543,Unknown
+TCP,1352,Lotus Notes
+TCP,24,any private mail system
+TCP,3269,Microsoft Global Catalog with LDAP/SSL
+TCP,1111,LM Social Server
+TCP,407,Timbuktu
+TCP,500,ISAKMP
+TCP,20,File Transfer [Default Data]
+TCP,2006,invokator
+Unknown,3260,Unknown
+Unknown,15000,Unknown
+TCP,1218,AeroFlight-ADs
+Unknown,1034,Unknown
+TCP,4444,AdSubtract / NV Video default
+TCP,264,BGMP / Check Point
+TCP,2004,mailbox
+TCP,33,Display Support Protocol
+TCP,1042,W32.Mydoom.L virus
+Unknown,42510,Unknown
+TCP,999,puprouter
+TCP,3052,APCPCNS
+TCP,1023,Reserved
+TCP,1068,Installation Bootstrap Proto. Cli.
+TCP,222,Berkeley rshd with SPX auth
+TCP,7100,X Font Service
+TCP,888,CD Database Protocol
+TCP,4827,HTCP
+TCP,1999,cisco identification port / SubSeven (Windows Trojan) / Backdoor (Windows Trojan)
+TCP,563,AOL IM / NNTP protocol over TLS/SSL
+TCP,1717,fj-hdnet
+TCP,2008,conf
+TCP,992,Telnet protocol over TLS/SSL
+TCP,32770,Filenet NCH
+TCP,32772,Solaris RPC
+TCP,7001,WebLogic Server / Callbacks to cache managers
+TCP,8082,BlackICE Capture
+TCP,2007,dectalk
+TCP,740,(old) NETscout Control Protocol (old)
+TCP,5550,ACE/Server Services / Xtcp 2.0x
+TCP,2009,news
+TCP,5801,VNC Virtual Network Computing
+Unknown,1043,Unknown
+TCP,512,Remote process execution
+TCP,2701,SMS Remote Control (control)
+Unknown,7019,Unknown
+Unknown,50001,Unknown
+TCP,1700,mps-raft
+TCP,4662,eDonkey2k
+TCP,2065,Data Link Switch Read Port Number
+TCP,2010,search
+TCP,42,Host Name Server
+TCP,9535,Remote man server
+TCP,2602,discp server
+TCP,3333,DEC Notes
+TCP,161,SNMP
+Unknown,5100,Unknown
+TCP,5002,radio free ethernet
+TCP,2604,NSC CCS
+TCP,4002,pxc-spvr-ft
+Unknown,6059,Unknown
+TCP,1047,Sun's NEO Object Request Broker
+Unknown,8192,Unknown
+Unknown,8193,Unknown
+TCP,2702,SMS Remote Control (data)
+TCP,6789,IBM DB2
+TCP,9595,Ping Discovery Service
+TCP,1051,Optima VNET
+TCP,9594,Message System
+Unknown,9593,Unknown
+Unknown,16993,Unknown
+Unknown,16992,Unknown
+Unknown,5226,Unknown
+Unknown,5225,Unknown
+TCP,32769,Filenet RPC
+TCP,3283,Net Assistant
+TCP,1052,Dynamic DNS Tools
+Unknown,8194,Unknown
+TCP,1055,ANSYS - License Manager
+TCP,1062,Veracity
+Unknown,9415,Unknown
+Unknown,8701,Unknown
+Unknown,8652,Unknown
+Unknown,8651,Unknown
+Unknown,8089,Unknown
+Unknown,65389,Unknown
+TCP,65000,distributed attack tool / Devil (Windows Trojan)
+Unknown,64680,Unknown
+Unknown,64623,Unknown
+Unknown,55600,Unknown
+Unknown,55555,Unknown
+Unknown,52869,Unknown
+Unknown,35500,Unknown
+Unknown,33354,Unknown
+Unknown,23502,Unknown
+Unknown,20828,Unknown
+TCP,1311,RxMon
+TCP,1060,POLESTAR
+TCP,4443,Pharos
+TCP,730,IBM NetView DM/6000 send/tcp
+TCP,731,IBM NetView DM/6000 receive/tcp
+TCP,709,Entrust Key Management Service Handler
+TCP,1067,Installation Bootstrap Proto. Serv.
+TCP,13782,VERITAS NetBackup
+Unknown,5902,Unknown
+TCP,366,ODMR
+Unknown,9050,Unknown
+TCP,1002,Microsoft Site Server Internet Locator Service (Netmeeting/ICF)
+TCP,85,MIT ML Device
+TCP,5500,fcp-addr-srvr1
+TCP,5431,PARK AGENT
+TCP,1864,Paradym 31 Port
+TCP,1863,MSN Messenger
+Unknown,8085,Unknown
+Unknown,51103,Unknown
+Unknown,49999,Unknown
+Unknown,45100,Unknown
+Unknown,10243,Unknown
+TCP,49,Login Host Protocol (TACACS)
+Unknown,3495,Unknown
+TCP,6667,IRC
+TCP,90,DNSIX Securit Attribute Token Map
+TCP,475,tcpnethaspsrv
+Unknown,27000,Unknown
+TCP,1503,MS Netmeeting / T.120 / Databeam
+TCP,6881,BitTorrent Network
+TCP,1500,VLSI License Manager
+Unknown,8021,Unknown
+Unknown,340,Unknown
+TCP,78,vettcp
+Unknown,5566,Unknown
+Unknown,8088,Unknown
+TCP,2222,Rockwell CSP2
+Unknown,9071,Unknown
+Unknown,8899,Unknown
+Unknown,6005,Unknown
+TCP,9876,Session Director
+TCP,1501,Satellite-data Acquisition System 3
+Unknown,5102,Unknown
+TCP,32774,Solaris RPC
+TCP,32773,Solaris RPC
+Unknown,9101,Unknown
+TCP,5679,Direct Cable Connect Manager
+TCP,163,CMIP/TCP Manager
+TCP,648,Registry Registrar Protocol (RRP)
+TCP,146,ISO-IP0
+TCP,1666,netview-aix-6
+TCP,901,Samba Web Administration Tool / Realsecure / SMPNAMERES/ NetDevil trojan
+TCP,83,MIT ML Device
+TCP,9207,WAP vCal Secure
+TCP,8001,HTTP/VCOM Tunnel
+Unknown,8083,Unknown
+TCP,5004,avt-profile-1
+Unknown,3476,Unknown
+Unknown,8084,Unknown
+Unknown,5214,Unknown
+Unknown,14238,Unknown
+TCP,12345,Netbus (Windows Trojan)
+TCP,912,VMware Authentication Daemon
+TCP,30,Unassigned
+TCP,2605,NSC POSA
+TCP,2030,device2
+TCP,6,Unassigned
+TCP,541,uucp-rlogin
+TCP,8007,Apache JServ Protocol
+TCP,3005,Genius License Manager
+TCP,4,Unassigned
+TCP,1248,hermes
+TCP,2500,Resource Tracking system server
+Unknown,880,Unknown
+Unknown,306,Unknown
+Unknown,4242,Unknown
+TCP,1097,Sun Cluster Manager
+Unknown,9009,Unknown
+TCP,2525,MS V-Worlds
+TCP,1086,CPL Scrambler Logging
+TCP,1088,CPL Scrambler Alarm Log
+Unknown,8291,Unknown
+Unknown,52822,Unknown
+TCP,6101,SynchroNet-rtc
+TCP,900,Check Point Firewall-1 HTTP administration / OMG Initial Refs
+TCP,7200,FODMS FLIP
+TCP,2809,CORBA LOC
+TCP,395,NETscout Control Protocol
+TCP,800,mdbs_daemon / Remotely Possible
+TCP,32775,Solaris RPC
+TCP,12000,IBM Enterprise Extender SNA XID Exchange
+TCP,1083,Anasoft License Manager
+TCP,211,Texas Instruments 914C/G Terminal
+Unknown,987,Unknown
+TCP,705,AgentX
+TCP,20005,xcept4 (German Telekom's CEPT videotext service)
+TCP,711,Cisco TDP
+TCP,13783,VOPIED Protnocol
+TCP,6969,acmsoda
+Unknown,3071,Unknown
+Unknown,5269,Unknown
+TCP,5222,Jabber Server
+TCP,1085,Web Objects
+Unknown,1046,Unknown
+TCP,5987,Solaris Web Enterprise Management RMI
+Unknown,5989,Unknown
+Unknown,5988,Unknown
+TCP,2190,TiVoConnect Beacon
+Unknown,11967,Unknown
+Unknown,8600,Unknown
+Unknown,3766,Unknown
+Unknown,7627,Unknown
+Unknown,8087,Unknown
+Unknown,30000,Unknown
+Unknown,9010,Unknown
+Unknown,7741,Unknown
+Unknown,14000,Unknown
+Unknown,3367,Unknown
+TCP,1099,RMI Registry
+TCP,1098,RMI Activation
+TCP,3031,AgentVU
+TCP,2718,PN REQUESTER 2
+Unknown,6580,Unknown
+Unknown,15002,Unknown
+Unknown,4129,Unknown
+TCP,6901,MS Messenger voice calls
+Unknown,3827,Unknown
+Unknown,3580,Unknown
+TCP,2144,Live Vault Fast Object Transfer
+TCP,9900,IUA
+TCP,8181,IPSwitch IMail / Monitor
+Unknown,3801,Unknown
+TCP,1718,h323gatedisc
+TCP,2811,GSI FTP
+Unknown,9080,Unknown
+TCP,2135,Grid Resource Information Server
+Unknown,1045,Unknown
+TCP,2399,FileMaker Inc. - Data Access Layer
+TCP,3017,Event Listener
+TCP,10002,poker
+Unknown,1148,Unknown
+Unknown,9002,Unknown
+Unknown,8873,Unknown
+TCP,2875,dxmessagebase2
+Unknown,9011,Unknown
+Unknown,5718,Unknown
+Unknown,8086,Unknown
+Unknown,3998,Unknown
+TCP,2607,Dell Connection
+Unknown,11110,Unknown
+Unknown,4126,Unknown
+Unknown,5911,Unknown
+Unknown,5910,Unknown
+Unknown,9618,Unknown
+TCP,2381,Compaq HTTPS
+TCP,1096,Common Name Resolution Protocol
+TCP,3300,bmc-patrol-agent
+TCP,3351,BTRIEVE
+TCP,1073,BridgeControl
+Unknown,8333,Unknown
+Unknown,3784,Unknown
+Unknown,5633,Unknown
+Unknown,15660,Unknown
+TCP,6123,Backup Express
+Unknown,3211,Unknown
+TCP,1078,eManageCstp
+Unknown,3659,Unknown
+Unknown,3551,Unknown
+Unknown,2260,Unknown
+Unknown,2160,Unknown
+TCP,2100,amiganetfs
+Unknown,16001,Unknown
+TCP,3325,isi.edu
+Unknown,3323,Unknown
+TCP,1104,XRL
+Unknown,9968,Unknown
+Unknown,9503,Unknown
+Unknown,9502,Unknown
+Unknown,9485,Unknown
+TCP,9290,HP JetDirect
+Unknown,9220,Unknown
+Unknown,8994,Unknown
+Unknown,8649,Unknown
+Unknown,8222,Unknown
+Unknown,7911,Unknown
+Unknown,7625,Unknown
+Unknown,7106,Unknown
+Unknown,65129,Unknown
+Unknown,63331,Unknown
+Unknown,6156,Unknown
+TCP,6129,DameWare
+Unknown,60020,Unknown
+Unknown,5962,Unknown
+Unknown,5961,Unknown
+Unknown,5960,Unknown
+Unknown,5959,Unknown
+Unknown,5925,Unknown
+Unknown,5877,Unknown
+Unknown,5825,Unknown
+Unknown,5810,Unknown
+Unknown,58080,Unknown
+Unknown,57294,Unknown
+Unknown,50800,Unknown
+Unknown,50006,Unknown
+Unknown,50003,Unknown
+Unknown,49160,Unknown
+Unknown,49159,Unknown
+Unknown,49158,Unknown
+Unknown,48080,Unknown
+Unknown,40193,Unknown
+Unknown,34573,Unknown
+Unknown,34572,Unknown
+Unknown,34571,Unknown
+Unknown,3404,Unknown
+Unknown,33899,Unknown
+TCP,3301,Unathorised use by SAP R/3
+Unknown,32782,Unknown
+Unknown,32781,Unknown
+Unknown,31038,Unknown
+Unknown,30718,Unknown
+Unknown,28201,Unknown
+Unknown,27715,Unknown
+Unknown,25734,Unknown
+Unknown,24800,Unknown
+Unknown,22939,Unknown
+Unknown,21571,Unknown
+Unknown,20221,Unknown
+TCP,20031,BakBone NetVault
+Unknown,19842,Unknown
+Unknown,19801,Unknown
+Unknown,19101,Unknown
+Unknown,17988,Unknown
+TCP,1783,Port 04/14/00 fujitsu.co.jp
+Unknown,16018,Unknown
+Unknown,16016,Unknown
+Unknown,15003,Unknown
+Unknown,14442,Unknown
+Unknown,13456,Unknown
+Unknown,10629,Unknown
+Unknown,10628,Unknown
+Unknown,10626,Unknown
+Unknown,10621,Unknown
+Unknown,10617,Unknown
+Unknown,10616,Unknown
+Unknown,10566,Unknown
+Unknown,10025,Unknown
+Unknown,10024,Unknown
+TCP,10012,qmaster
+TCP,1169,TRIPWIRE
+Unknown,5030,Unknown
+TCP,5414,StatusD
+TCP,1057,STARTRON
+Unknown,6788,Unknown
+TCP,1947,hlserver
+TCP,1094,ROOTD
+TCP,1075,RDRMSHC
+TCP,1108,ratio-adp
+TCP,4003,pxc-splr-ft
+TCP,1081,PVUNIWIEN
+TCP,1093,PROOFD
+TCP,4449,PrivateWire
+TCP,1687,nsjtp-ctrl
+TCP,1840,netopia-vo2
+TCP,1100,MCTP
+TCP,1063,KyoceraNetDev
+TCP,1061,KIOSK
+TCP,1107,ISOIPSIGPORT-2
+TCP,1106,ISOIPSIGPORT-1
+TCP,9500,ismserver
+Unknown,20222,Unknown
+TCP,7778,Windows Media Services / Interwise
+TCP,1077,IMGames
+TCP,1310,Husky
+TCP,2119,GSIGATEKEEPER
+TCP,2492,GROOVE
+TCP,1070,GMRUpdateSERV
+TCP,20000,DNP
+TCP,8400,cvd
+Unknown,1272,Unknown
+TCP,6389,clariion-evr01
+TCP,7777,Oracle App server / cbt
+TCP,1072,CARDAX
+TCP,1079,ASPROVATalk
+TCP,1082,AMT-ESD-PROT
+TCP,8402,abarsd
+TCP,89,SU/MIT Telnet Gateway
+TCP,691,MS Exchange Routing
+Unknown,1001,Unknown
+TCP,32776,Solaris RPC
+TCP,1999,cisco identification port / SubSeven (Windows Trojan) / Backdoor (Windows Trojan)
+TCP,212,ATEXSSTR
+TCP,2020,xinupageserver
+TCP,6003,Half-Life WON server
+TCP,7002,WebLogic Server (SSL) / Half-Life Auth Server / Users & groups database
+TCP,2998,Real Secure
+Unknown,50002,Unknown
+TCP,3372,Microsoft Distributed Transaction Coordinator (MSDTC) / TIP 2
+Unknown,898,Unknown
+TCP,5510,ACE/Server Services
+TCP,32,Unassigned
+TCP,2033,glogger
+Unknown,4165,Unknown
+TCP,3061,cautcpd
+Unknown,5903,Unknown
+TCP,99,Metagram Relay
+TCP,749,kerberos administration
+TCP,425,ICAD
+TCP,43,WhoIs
+TCP,5405,NetSupport
+TCP,6106,MPS Server
+TCP,13722,BP Java MSVC Protocol
+TCP,6502,BoKS Servm
+TCP,7007,Windows Media Services / basic overseer process
+TCP,458,apple quick time
+Unknown,9666,Unknown
+Unknown,8100,Unknown
+Unknown,3737,Unknown
+Unknown,5298,Unknown
+Unknown,1152,Unknown
+Unknown,8090,Unknown
+TCP,2191,TvBus Messaging
+TCP,3011,Trusted Web
+TCP,1580,tn-tl-r1
+TCP,5200,Targus AIB 1
+Unknown,3851,Unknown
+TCP,3371,ccm.jf.intel.com
+Unknown,3370,Unknown
+Unknown,3369,Unknown
+Unknown,7402,Unknown
+Unknown,5054,Unknown
+Unknown,3918,Unknown
+TCP,3077,Orbix 2000 Locator SSL
+Unknown,7443,Unknown
+Unknown,3493,Unknown
+Unknown,3828,Unknown
+Unknown,1186,Unknown
+Unknown,2179,Unknown
+Unknown,1183,Unknown
+TCP,19315,Key Shadow for SASSAFRAS
+TCP,19283,Key Server for SASSAFRAS
+Unknown,3995,Unknown
+Unknown,5963,Unknown
+Unknown,1124,Unknown
+Unknown,8500,Unknown
+TCP,1089,FF Annunciation
+TCP,10004,remp
+Unknown,2251,Unknown
+TCP,1087,CPL Scrambler Internal
+Unknown,5280,Unknown
+Unknown,3871,Unknown
+TCP,3030,Arepa Cas
+Unknown,62078,Unknown
+Unknown,9091,Unknown
+Unknown,4111,Unknown
+Unknown,1334,Unknown
+Unknown,3261,Unknown
+TCP,2522,WinDb
+TCP,5859,WHEREHOO
+Unknown,1247,Unknown
+Unknown,9944,Unknown
+Unknown,9943,Unknown
+Unknown,9877,Unknown
+Unknown,9110,Unknown
+Unknown,8654,Unknown
+Unknown,8254,Unknown
+Unknown,8180,Unknown
+Unknown,8011,Unknown
+Unknown,7512,Unknown
+Unknown,7435,Unknown
+Unknown,7103,Unknown
+Unknown,61900,Unknown
+Unknown,61532,Unknown
+Unknown,5922,Unknown
+Unknown,5915,Unknown
+Unknown,5904,Unknown
+Unknown,5822,Unknown
+Unknown,56738,Unknown
+Unknown,55055,Unknown
+Unknown,51493,Unknown
+Unknown,50636,Unknown
+Unknown,50389,Unknown
+Unknown,49175,Unknown
+Unknown,49165,Unknown
+Unknown,49163,Unknown
+Unknown,3546,Unknown
+Unknown,32784,Unknown
+Unknown,27355,Unknown
+Unknown,27353,Unknown
+Unknown,27352,Unknown
+Unknown,24444,Unknown
+Unknown,19780,Unknown
+Unknown,18988,Unknown
+Unknown,16012,Unknown
+Unknown,15742,Unknown
+Unknown,10778,Unknown
+TCP,4006,pxc-spvr
+TCP,2126,PktCable-COPS
+TCP,4446,N1-FWP
+Unknown,3880,Unknown
+TCP,1782,HP JetSend
+Unknown,1296,Unknown
+TCP,9998,Distinct32
+Unknown,9040,Unknown
+Unknown,32779,Unknown
+Unknown,1021,Unknown
+TCP,32777,Solaris RPC
+TCP,2021,servexec
+Unknown,32778,Unknown
+TCP,616,SCO System Administration Server
+TCP,666,doom Id Software
+Unknown,700,Unknown
+Unknown,5802,Unknown
+TCP,4321,Remote Who Is
+TCP,545,appleqtcsrvr
+TCP,1524,dtspcd / ingres
+TCP,1112,Intelligent Communication Protocol
+TCP,49400,Compaq Insight Manager
+TCP,84,Common Trace Facility
+Unknown,38292,Unknown
+TCP,2040,lam
+TCP,32780,RPC
+TCP,3006,Instant Internet Admin
+TCP,2111,DSATP
+TCP,1084,Anasoft License Manager
+TCP,1600,Bofra-A worm / issd
+TCP,2048,dls-monitor
+TCP,2638,Sybase Anywhere
+TCP,6699,Napster
+Unknown,9111,Unknown
+Unknown,16080,Unknown
+TCP,6547,apc-tcp-udp-1
+Unknown,6007,Unknown
+TCP,1533,Virtual Places Software
+Unknown,5560,Unknown
+TCP,2106,MZAP
+TCP,1443,Integrated Engineering Software
+TCP,667,campaign contribution disclosures - SDR Technologies
+Unknown,720,Unknown
+TCP,2034,scoremgr
+TCP,555,"phAse Zero backdoor (Win 9x, NT) / dsf"
+TCP,801,device
+Unknown,6025,Unknown
+Unknown,3221,Unknown
+Unknown,3826,Unknown
+TCP,9200,WAP connectionless session service
+TCP,2608,Wag Service
+Unknown,4279,Unknown
+Unknown,7025,Unknown
+TCP,11111,Viral Computing Environment (VCE)
+Unknown,3527,Unknown
+Unknown,1151,Unknown
+TCP,8200,TRIVNET
+Unknown,8300,Unknown
+Unknown,6689,Unknown
+Unknown,9878,Unknown
+Unknown,10009,Unknown
+Unknown,8800,Unknown
+Unknown,5730,Unknown
+TCP,2394,MS OLAP 2
+TCP,2393,MS OLAP 1
+TCP,2725,SQL Analysis Services / MSOLAP PTP2
+Unknown,5061,Unknown
+Unknown,6566,Unknown
+Unknown,9081,Unknown
+TCP,5678,LinkSys EtherFast Router Remote Administration / Remote Replication Agent Connection
+Unknown,3800,Unknown
+Unknown,4550,Unknown
+Unknown,5080,Unknown
+TCP,1201,Nucleus Sand
+Unknown,3168,Unknown
+Unknown,3814,Unknown
+TCP,1862,techra-server
+TCP,1114,Mini SQL
+Unknown,6510,Unknown
+Unknown,3905,Unknown
+TCP,8383,Web Email
+Unknown,3914,Unknown
+Unknown,3971,Unknown
+Unknown,3809,Unknown
+Unknown,5033,Unknown
+Unknown,7676,Unknown
+Unknown,3517,Unknown
+Unknown,4900,Unknown
+Unknown,3869,Unknown
+Unknown,9418,Unknown
+TCP,2909,Funk Dialout
+Unknown,3878,Unknown
+Unknown,8042,Unknown
+TCP,1091,FF System Management
+TCP,1090,FF Fieldbus Message Specification
+Unknown,3920,Unknown
+Unknown,6567,Unknown
+Unknown,1138,Unknown
+Unknown,3945,Unknown
+Unknown,1175,Unknown
+TCP,10003,gateway
+TCP,3390,Distributed Service Coordinator
+Unknown,3889,Unknown
+Unknown,1131,Unknown
+Unknown,8292,Unknown
+Unknown,5087,Unknown
+Unknown,1119,Unknown
+TCP,1117,ARDUS Multicast Transfer
+Unknown,4848,Unknown
+Unknown,7800,Unknown
+Unknown,16000,Unknown
+Unknown,3324,Unknown
+Unknown,3322,Unknown
+Unknown,5221,Unknown
+TCP,4445,UPNOTIFYP
+Unknown,9917,Unknown
+Unknown,9575,Unknown
+Unknown,9099,Unknown
+Unknown,9003,Unknown
+Unknown,8290,Unknown
+Unknown,8099,Unknown
+Unknown,8093,Unknown
+Unknown,8045,Unknown
+Unknown,7921,Unknown
+Unknown,7920,Unknown
+Unknown,7496,Unknown
+Unknown,6839,Unknown
+Unknown,6792,Unknown
+Unknown,6779,Unknown
+Unknown,6692,Unknown
+Unknown,6565,Unknown
+Unknown,60443,Unknown
+Unknown,5952,Unknown
+Unknown,5950,Unknown
+Unknown,5907,Unknown
+Unknown,5906,Unknown
+Unknown,5862,Unknown
+Unknown,5850,Unknown
+Unknown,5815,Unknown
+Unknown,5811,Unknown
+Unknown,57797,Unknown
+Unknown,56737,Unknown
+Unknown,5544,Unknown
+Unknown,55056,Unknown
+Unknown,5440,Unknown
+Unknown,54328,Unknown
+Unknown,54045,Unknown
+Unknown,52848,Unknown
+TCP,52673,Stickies
+Unknown,50500,Unknown
+TCP,50300,O&O Defrag
+Unknown,49176,Unknown
+Unknown,49167,Unknown
+Unknown,49161,Unknown
+Unknown,44501,Unknown
+Unknown,44176,Unknown
+Unknown,41511,Unknown
+Unknown,40911,Unknown
+Unknown,32785,Unknown
+Unknown,32783,Unknown
+Unknown,30951,Unknown
+Unknown,27356,Unknown
+Unknown,26214,Unknown
+Unknown,25735,Unknown
+Unknown,19350,Unknown
+Unknown,18101,Unknown
+Unknown,18040,Unknown
+Unknown,17877,Unknown
+Unknown,16113,Unknown
+Unknown,15004,Unknown
+Unknown,14441,Unknown
+Unknown,12265,Unknown
+Unknown,12174,Unknown
+Unknown,10215,Unknown
+Unknown,10180,Unknown
+TCP,4567,TRAM
+TCP,6100,SynchroNet-db
+TCP,4004,pxc-roid
+TCP,4005,pxc-pin
+Unknown,8022,Unknown
+TCP,9898,MonkeyCom / Win32/Dabber (Windows worm)
+TCP,7999,iRDMI2
+Unknown,1271,Unknown
+Unknown,1199,Unknown
+TCP,3003,CGMS
+Unknown,1122,Unknown
+TCP,2323,3d-nfsd
+Unknown,4224,Unknown
+TCP,2022,down
+TCP,617,SCO Desktop Administration Server
+TCP,777,Multiling HTTP
+TCP,417,Onmux
+Unknown,714,Unknown
+TCP,6346,Gnutella/Bearshare file sharing Application
+Unknown,981,Unknown
+Unknown,722,Unknown
+Unknown,1009,Unknown
+Unknown,4998,Unknown
+TCP,70,Gopher
+TCP,1076,DAB STI-C
+TCP,5999,CVSup
+TCP,10082,Amanda Indexing
+TCP,765,webster
+Unknown,301,Unknown
+TCP,524,NCP
+TCP,668,MeComm
+TCP,2041,W32.Korgo Worm / interbase
+Unknown,6009,Unknown
+TCP,1417,Timbuktu Service 1 Port
+TCP,1434,Microsoft-SQL-Monitor
+TCP,259,Check Point Firewall-1 telnet auth / Efficient Short Remote Operations
+Unknown,44443,Unknown
+TCP,1984,BB
+Unknown,2068,Unknown
+TCP,7004,AFS/Kerberos authentication service
+Unknown,1007,Unknown
+TCP,4343,UNICALL
+TCP,416,Silverplatter
+TCP,2038,objectmanager
+Unknown,6006,Unknown
+TCP,109,Post Office Protocol - Version 2
+Unknown,4125,Unknown
+TCP,1461,IBM Wireless LAN
+Unknown,9103,Unknown
+TCP,911,xact-backup
+Unknown,726,Unknown
+TCP,1010,surf
+TCP,2046,sdfunc
+TCP,2035,imsldoc
+TCP,7201,DLIP
+TCP,687,asipregistry
+TCP,2013,raid-am
+TCP,481,Ph service
+TCP,125,Locus PC-Interface Net Map Ser
+TCP,6669,IRC
+TCP,6668,IRC
+TCP,903,IDEAFARM-CATCH / NetDevil trojan
+TCP,1455,ESL License Manager
+TCP,683,CORBA IIOP
+TCP,1011,Doly (Windows Trojan)
+TCP,2043,isis-bcast
+TCP,2047,dls
+TCP,31337,BO2K
+TCP,256,RAP/Checkpoint SNMP
+Unknown,9929,Unknown
+TCP,5998,NCD diagnostic telnet port
+TCP,406,Interactive Mail Support Protocol
+Unknown,44442,Unknown
+TCP,783,HP performance data alarm manager
+Unknown,843,Unknown
+TCP,2042,isis
+TCP,2045,cdfunc
+Unknown,4040,Unknown
+Unknown,6060,Unknown
+Unknown,6051,Unknown
+Unknown,1145,Unknown
+Unknown,3916,Unknown
+Unknown,9443,Unknown
+Unknown,9444,Unknown
+Unknown,1875,Unknown
+Unknown,7272,Unknown
+Unknown,4252,Unknown
+Unknown,4200,Unknown
+Unknown,7024,Unknown
+TCP,1556,AshWin CI Tecnologies
+Unknown,13724,Unknown
+Unknown,1141,Unknown
+Unknown,1233,Unknown
+TCP,8765,Ultraseek HTTP
+Unknown,1137,Unknown
+Unknown,3963,Unknown
+Unknown,5938,Unknown
+Unknown,9191,Unknown
+Unknown,3808,Unknown
+Unknown,8686,Unknown
+Unknown,3981,Unknown
+TCP,2710,SSO Service
+Unknown,3852,Unknown
+Unknown,3849,Unknown
+Unknown,3944,Unknown
+Unknown,3853,Unknown
+Unknown,9988,Unknown
+Unknown,1163,Unknown
+Unknown,4164,Unknown
+Unknown,3820,Unknown
+Unknown,6481,Unknown
+Unknown,3731,Unknown
+Unknown,5081,Unknown
+Unknown,40000,Unknown
+Unknown,8097,Unknown
+Unknown,4555,Unknown
+Unknown,3863,Unknown
+Unknown,1287,Unknown
+Unknown,4430,Unknown
+Unknown,7744,Unknown
+TCP,1812,RADIUS
+Unknown,7913,Unknown
+Unknown,1166,Unknown
+Unknown,1164,Unknown
+Unknown,1165,Unknown
+Unknown,8019,Unknown
+Unknown,10160,Unknown
+Unknown,4658,Unknown
+Unknown,7878,Unknown
+TCP,3304,OP Session Server
+TCP,3307,OP Session Proxy
+Unknown,1259,Unknown
+TCP,1092,OBRPD
