@@ -2,7 +2,7 @@ Cyber Security Professional Portfolio Ideas Brainstorm.
 
 # Network Security
 
-1. **Port Scanner** [Port Scanner](https://www.example.com)
+1.  [**Port Scanner**](https://www.example.com)
 2. Packet Sniffers and Packet Capture
 3. Firewall Implementation
 4. Intrusion Detection System (IDS)
