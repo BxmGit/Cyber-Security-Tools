@@ -30,6 +30,7 @@ Cyber Security Professional Portfolio Ideas Brainstorm.
 
 1. Digital Forensics Toolkit
 2. Incedence Response Plan
+3. Lost Data Retrieval 
 
 # Cryptography
 
@@ -42,10 +43,14 @@ Cyber Security Professional Portfolio Ideas Brainstorm.
 
 # Ethical Hacking
 1. Capture the Flag (CTF) Challenges. 
+2. Keylogging
 
 
-# Simulations
+
+# Misc
 
 1. M-I-T-M attack simulation
 2. WIFI Cracking
 3. DDoS Attack Simulation and Mitigation 
+4. Tool Comparison Technical Guide
+5. SQL Injection
