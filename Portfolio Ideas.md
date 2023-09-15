@@ -13,7 +13,7 @@ Cyber Security Professional Portfolio Ideas Brainstorm.
 9. Proxy servers and VPNS
 10. Anomaly Detection with Machine Learning.
 11. Network Discover with Live Hosts 
-Packet Sniffers and 
+12. Packet Sniffers
 
 # Web Security
 
