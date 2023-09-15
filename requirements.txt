@@ -9,3 +9,7 @@ scapy
 # Install npcap at https://npcap.com/#download
 geoip2
 # https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+
+# Host Network 
+networkx
+matplotlib
