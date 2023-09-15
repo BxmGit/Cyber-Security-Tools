@@ -1,4 +1,11 @@
 # Network Security
+# Port Scanner
 sockets
 pyfiglet
 csv
+
+# Traffic Capture
+scapy
+# Install npcap at https://npcap.com/#download
+geoip2
+# https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
