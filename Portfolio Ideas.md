@@ -6,13 +6,13 @@ Cyber Security Professional Portfolio Ideas Brainstorm.
 2. [**Packet Capture**](https://github.com/BxmGit/Professional-Cyber-Security-Portfolio/blob/main/Network%20Security/traffic_capture.py)
 3. Firewall Implementation
 4. Intrusion Detection System (IDS)
-5. Network Topology Analysis System
+5.  Analysis System
 6. Network Hardening 
 7. Network Segmentation with VLANS or Subnetting
 8. SSH Hardening
 9. Proxy servers and VPNS
 10. Anomaly Detection with Machine Learning.
-11. Network Discover with Live Hosts 
+11. [**Network Topology and Live Host**](https://github.com/BxmGit/Professional-Cyber-Security-Portfolio/blob/main/Network%20Security/Network%20Topology%20and%20Host%20Detection.py) 
 12. Packet Sniffers
 
 # Web Security
