@@ -7,7 +7,7 @@ Welcome to my Professional Portfolio Repository! This project is a part of my cy
 This Port Scanner is intended for educational purposes and ethical use only. Do not use this code to perform any unauthorized or illegal activities. Scanning networks or systems without explicit permission is illegal in many jurisdictions. The author of this repository is not responsible for any misuse of this software. By using this software, you agree to adhere to all applicable laws and regulations, and you accept full liability for your actions.
 
 
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Brad! <br/><a href="https://github.com/BxmGit">Student</a>, <a href="https://www.linkedin.com/in/bradley-c-8160881a4/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">Technology Enthusiast</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
