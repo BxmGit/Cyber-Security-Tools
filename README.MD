@@ -1,6 +1,6 @@
 # Introduction
 
-Welcome to my Cyber Tools Repo! This repository contains code that showcases my abilities in Python programming and understanding of various cybersecurity techniques. If you're a potential employer, I invite you to look through the code and its accompanying documentation to evaluate my skills in cybersecurity and software development. Please feel free to reach out if you have any questions or would like further demonstrations of my expertise.
+Welcome to my Cyber Tools Repo! This repository contains code that showcases my abilities in Python programming and understanding of various cybersecurity techniques. I invite you to look through the code and its accompanying documentation to evaluate my skills in cybersecurity and software development. Please feel free to reach out if you have any questions or would like further demonstrations of my expertise.
 # Disclaimer
 ## Important: Read Before Using
 
